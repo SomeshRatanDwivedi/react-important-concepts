@@ -1,0 +1,9 @@
+//React Fiber
+
+/*React Fiber is a scheduling engine. It allows React to break rendering work into small chunks and prioritize user interactions over background updates, 
+ensuring the UI stays smooth and responsive even during heavy computations.*/
+
+
+//Batching
+
+/*In React, Batching is a performance optimization where multiple state updates are grouped into a single re-render.*/
